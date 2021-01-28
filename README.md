@@ -1,6 +1,6 @@
 # Hana Dawson
 
-##Introduction
+## Introduction
   
 I am new in the field of coding and programming. 
 I am taking this bootcamp to learn more about it and to start a new career path for myself. 
