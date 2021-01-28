@@ -10,6 +10,8 @@ When I finish this Android+Java Bootcamp I will be looking to be hired for emplo
 
 ## Projects
 
-My Current projects are hello-world and hello-world-java
+* Hello World: Java console application
 
-##Links
+* Hello World: Android app
+
+## Links
