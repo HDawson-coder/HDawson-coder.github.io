@@ -10,9 +10,9 @@ When I finish this Android+Java Bootcamp I will be looking to be hired for emplo
 
 ## Projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](https://github.com/HDawson-coder/hello-world-java)
 
-* Hello World: Android app
+* [Hello World: Android app](https://github.com/HDawson-coder/hello-world)
 
 ## Links
 
