@@ -41,6 +41,7 @@ Developed multiple android applications with fully functioning databases and Use
 
 #### City of Albuquerque 311 Community Contact Center, Albuquerque, New Mexico
 * Agent II Customer Service 04/2018 – 02/2021
+
 Handled inbound phone calls in a fast-paced work environment for the City of Albuquerque regarding 
 most City departments and City issues. Exceeded workplace metrics and ensured customer satisfaction 
 with every call.
@@ -52,6 +53,7 @@ with every call.
 
 #### Verizon Wireless, Albuquerque, New Mexico
 * Customer Retention 09/2016 – 04/2018
+
 Handled inbound calls from customers regarding their phone accounts. Prevented customer turnover by working with customers to ensure they got the service they needed. Troubleshooting errors and devices.
 	Promoted to “Customer Pro” (retention team) less than 6 months of working for Verizon Wireless.
 	Excelled with Customer Success and retained many customers who were planning on changing services.
@@ -59,6 +61,7 @@ Handled inbound calls from customers regarding their phone accounts. Prevented c
 
 #### McDonalds, Dillon, Montana and Albuquerque, New Mexico
 * Shift Manager, 03/2014 – 09/2016
+
 Managed crew, opened/closed store, counted drawers, made critical decisions during shifts based on 
 customer needs.
 > * Promoted to shift manager within a year of working and was told by the store manager in Dillon that I was one of the best shift managers they ever had.
