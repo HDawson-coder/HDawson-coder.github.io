@@ -55,9 +55,9 @@ with every call.
 * Customer Retention 09/2016 – 04/2018
 
 Handled inbound calls from customers regarding their phone accounts. Prevented customer turnover by working with customers to ensure they got the service they needed. Troubleshooting errors and devices.
-	Promoted to “Customer Pro” (retention team) less than 6 months of working for Verizon Wireless.
-	Excelled with Customer Success and retained many customers who were planning on changing services.
-	Maintained required Metrics needed for Company Success.
+> *	Promoted to “Customer Pro” (retention team) less than 6 months of working for Verizon Wireless.
+> * Excelled with Customer Success and retained many customers who were planning on changing services.
+> * Maintained required Metrics needed for Company Success.
 
 #### McDonalds, Dillon, Montana and Albuquerque, New Mexico
 * Shift Manager, 03/2014 – 09/2016
