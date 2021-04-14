@@ -96,4 +96,4 @@ customer needs.
 
 * [LinkedIn](https://www.linkedin.com/in/hana-d-57270b205/)
 
-* Hdawsoncoder@gmail.com
+* [Hdawsoncoder@gmail.com](mailto:hdawsoncoder@gmail.com)
