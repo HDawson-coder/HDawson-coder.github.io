@@ -1,5 +1,3 @@
-# Hana Dawson
-
 ## Objective
 
 I am a positive individual who enjoys working on projects with teams. 
@@ -29,15 +27,15 @@ I am seeking a position as a Junior Java Developer, where I can connect with my 
 #### CNM Ingenuity Java + Android Bootcamp at New Mexico Central Community College
 * Java & Android Developer 02/08/2021 - 04/30/2021
 
-Developed multiple android applications with fully functioning databases and User Interfaces. Collaborated remotely with teammates using GitHub to ensure pushes to the code would go through successfully. 
+    Developed multiple android applications with fully functioning databases and User Interfaces. Collaborated remotely with teammates using GitHub to ensure pushes to the code would go through successfully. 
 
-> * Developed 4 functioning applications in a three-month period.
-> * Tested code to ensure completion with Junit.
-> * Collaborated with teammates remotely using GitHub.
-> * Designed application and server with wireframe and Entity Relations Database (ERD).
-> * Implemented API’s into applications, such as Google sign in and other external services.
-> * Wrote Javadoc’s for applications developed.
-> * Developed servers for use with android applications.
+    > * Developed 4 functioning applications in a three-month period.
+    > * Tested code to ensure completion with Junit.
+    > * Collaborated with teammates remotely using GitHub.
+    > * Designed application and server with wireframe and Entity Relations Database (ERD).
+    > * Implemented API’s into applications, such as Google sign in and other external services.
+    > * Wrote Javadoc’s for applications developed.
+    > * Developed servers for use with android applications.
 
 #### City of Albuquerque 311 Community Contact Center, Albuquerque, New Mexico
 * Agent II Customer Service 04/2018 – 02/2021
