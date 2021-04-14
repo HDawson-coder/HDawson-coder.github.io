@@ -40,30 +40,30 @@ I am seeking a position as a Junior Java Developer, where I can connect with my 
 #### City of Albuquerque 311 Community Contact Center, Albuquerque, New Mexico
 * Agent II Customer Service 04/2018 – 02/2021
 
-Handled inbound phone calls in a fast-paced work environment for the City of Albuquerque regarding 
+    Handled inbound phone calls in a fast-paced work environment for the City of Albuquerque regarding 
 most City departments and City issues. Exceeded workplace metrics and ensured customer satisfaction 
 with every call.
-> * Promoted from Agent I to Agent II within the first year. 
-> * Ranked #1 Agent multiple months in a row.
-> * Received the “Golden Phone Award” for exceptional customer service.
-> * Received multiple Customer Success Kudos from callers.
-> * Worked fully remotely for one year during the pandemic of 2020.
+    > * Promoted from Agent I to Agent II within the first year. 
+    > * Ranked #1 Agent multiple months in a row.
+    > * Received the “Golden Phone Award” for exceptional customer service.
+    > * Received multiple Customer Success Kudos from callers.
+    > * Worked fully remotely for one year during the pandemic of 2020.
 
 #### Verizon Wireless, Albuquerque, New Mexico
 * Customer Retention 09/2016 – 04/2018
 
-Handled inbound calls from customers regarding their phone accounts. Prevented customer turnover by working with customers to ensure they got the service they needed. Troubleshooting errors and devices.
-> *	Promoted to “Customer Pro” (retention team) less than 6 months of working for Verizon Wireless.
-> * Excelled with Customer Success and retained many customers who were planning on changing services.
-> * Maintained required Metrics needed for Company Success.
+    Handled inbound calls from customers regarding their phone accounts. Prevented customer turnover by working with customers to ensure they got the service they needed. Troubleshooting errors and devices.
+    > *	Promoted to “Customer Pro” (retention team) less than 6 months of working for Verizon Wireless.
+    > * Excelled with Customer Success and retained many customers who were planning on changing services.
+    > * Maintained required Metrics needed for Company Success.
 
 #### McDonalds, Dillon, Montana and Albuquerque, New Mexico
 * Shift Manager, 03/2014 – 09/2016
 
-Managed crew, opened/closed store, counted drawers, made critical decisions during shifts based on 
+    Managed crew, opened/closed store, counted drawers, made critical decisions during shifts based on 
 customer needs.
-> * Promoted to shift manager within a year of working and was told by the store manager in Dillon that I was one of the best shift managers they ever had.
-> * Successfully ran the store during the yearly health/store inspection and passed.
+    > * Promoted to shift manager within a year of working and was told by the store manager in Dillon that I was one of the best shift managers they ever had.
+    > * Successfully ran the store during the yearly health/store inspection and passed.
 
 
 ## Education
@@ -96,4 +96,4 @@ customer needs.
 
 * [LinkedIn](https://www.linkedin.com/in/hana-d-57270b205/)
 
-* [Hdawsoncoder@gmail.com](mailto:hdawsoncoder@gmail.com)
+* [Email Me](mailto:hdawsoncoder@gmail.com)
